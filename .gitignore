@@ -129,3 +129,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Logs
+unit08-large-language-models/8.7-distilbert-finetuning/logs
